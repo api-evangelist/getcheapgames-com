@@ -1,4 +1,4 @@
-# getcheapgames-com
+# Get Cheap Games
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,137 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-getcheapgames-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://getcheapgames.com/
+Get Cheap Games is an online platform that aggregates discounted video game offers from various digital storefronts. It provides users with curated deals, price comparisons, and links to purchase games at reduced prices. The site features a searchable catalog, regional pricing support, and integrates affiliate links to generate revenue. Its front‑end is built with React and serves static assets via Cloudflare, while the backend APIs deliver game data, pricing, and promotional information.
+
+**Areas:** Company
+
+## Get Cheap Games on APIs.io
+
+Everything profiled for Get Cheap Games is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getcheapgames-com/](https://apis.io/providers/getcheapgames-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [Get Cheap Games Account API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-account-api/) — The account API from Get Cheap Games — 21 operation(s) for account.
+- [Get Cheap Games Admin API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-admin-api/) — The admin API from Get Cheap Games — 4 operation(s) for admin.
+- [Get Cheap Games Alerts API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-alerts-api/) — The alerts API from Get Cheap Games — 3 operation(s) for alerts.
+- [Get Cheap Games Auth API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-auth-api/) — The auth API from Get Cheap Games — 15 operation(s) for auth.
+- [Get Cheap Games Bio API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-bio-api/) — The bio API from Get Cheap Games — 2 operation(s) for bio.
+- [Get Cheap Games Catalog API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-catalog-api/) — The catalog API from Get Cheap Games — 29 operation(s) for catalog.
+- [Get Cheap Games Consent API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-consent-api/) — The consent API from Get Cheap Games — 1 operation(s) for consent.
+- [Get Cheap Games Jobs API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-jobs-api/) — The jobs API from Get Cheap Games — 5 operation(s) for jobs.
+- [Get Cheap Games Launcher API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-launcher-api/) — The launcher API from Get Cheap Games — 2 operation(s) for launcher.
+- [Get Cheap Games Mailing API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-mailing-api/) — The mailing API from Get Cheap Games — 5 operation(s) for mailing.
+- [Get Cheap Games MCP API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-mcp-api/) — The mcp API from Get Cheap Games — 3 operation(s) for mcp.
+- [Get Cheap Games Media API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-media-api/) — The media API from Get Cheap Games — 16 operation(s) for media.
+- [Get Cheap Games Meta API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-meta-api/) — The meta API from Get Cheap Games — 12 operation(s) for meta.
+- [Get Cheap Games News API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-news-api/) — The news API from Get Cheap Games — 8 operation(s) for news.
+- [Get Cheap Games Outbound API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-outbound-api/) — The outbound API from Get Cheap Games — 9 operation(s) for outbound.
+- [Get Cheap Games Postback API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-postback-api/) — The postback API from Get Cheap Games — 2 operation(s) for postback.
+- [Get Cheap Games Reviews API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-reviews-api/) — The reviews API from Get Cheap Games — 9 operation(s) for reviews.
+- [Get Cheap Games Social API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-social-api/) — The social API from Get Cheap Games — 29 operation(s) for social.
+- [Get Cheap Games Steam API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-steam-api/) — The steam API from Get Cheap Games — 8 operation(s) for steam.
+- [Get Cheap Games Track API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-track-api/) — The track API from Get Cheap Games — 3 operation(s) for track.
+- [Get Cheap Games Wishlist API](https://apis.io/apis/getcheapgames-com/getcheapgames-com-wishlist-api/) — The wishlist API from Get Cheap Games — 7 operation(s) for wishlist.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Get Cheap Games Agentic Access](https://apis.io/agentic-access/getcheapgames-com/getcheapgames-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [FoundGameOut](https://apis.io/schemas/getcheapgames-com/getcheapgames-com-found-game-out/)
+- [GameCardOut](https://apis.io/schemas/getcheapgames-com/getcheapgames-com-game-card-out/)
+- [GameOut](https://apis.io/schemas/getcheapgames-com/getcheapgames-com-game-out/)
+- [SettingsOut](https://apis.io/schemas/getcheapgames-com/getcheapgames-com-settings-out/)
+- [SettingsPatch](https://apis.io/schemas/getcheapgames-com/getcheapgames-com-settings-patch/)
+- [StorePageOut](https://apis.io/schemas/getcheapgames-com/getcheapgames-com-store-page-out/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getcheapgames Com Context](https://apis.io/jsonld/getcheapgames-com/getcheapgames-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Get Cheap Games API Rules](https://apis.io/rules/getcheapgames-com/getcheapgames-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Get Cheap Games Domain Security](https://apis.io/security/getcheapgames-com/getcheapgames-com-domain-security/)
+- [Get Cheap Games Vulnerability Disclosure](https://apis.io/security/getcheapgames-com/getcheapgames-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getcheapgames.com/)
+- [GitHub](https://github.com/getcheapgames)
+
+## API Evangelist rating
+
+**Kin Score 31.5** — thin · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 52.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 31.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getcheapgames-com/](https://apis.io/providers/getcheapgames-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Get Cheap Games: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getcheapgames-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
